@@ -4,3 +4,5 @@ Repositorio de pruebas para la asignatura 'Programación en JavaScript para prog
 Commit modificación 1
 
 Cherry-pick 1
+
+Cherry-pick 2
